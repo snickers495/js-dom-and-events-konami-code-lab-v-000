@@ -11,6 +11,8 @@ function init() {
         alert("yes!");
         index = 0;
       }
+    } else {
+      index = 0;
     }
   }
 
